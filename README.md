@@ -1,12 +1,12 @@
 # aprender-ruby-on-rails
 Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para Web com Ruby on Rails 4
-- [ ] Capítulo 1
-- [ ] Capítulo 2
-- [ ] Capítulo 3
-  - [ ] 3.6 Exercícios - Variáveis e Atribuições
-  - [ ] 3.8 Exercícios - Strings
-  - [ ] 3.10 Exercícios - Tipos
-  - [ ] 3.12 Exercícios - Estruturas de controle e Regexp
+- [x] Capítulo 1
+- [x] Capítulo 2
+- [x] Capítulo 3
+  - [x] 3.6 Exercícios - Variáveis e Atribuições
+  - [x] 3.8 Exercícios - Strings
+  - [x] 3.10 Exercícios - Tipos
+  - [x] 3.12 Exercícios - Estruturas de controle e Regexp
   - [ ] 3.13 Desafios
 - [ ] Capítulo 4
 - [ ] Capítulo 5

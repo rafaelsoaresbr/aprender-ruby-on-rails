@@ -1,5 +1,8 @@
-# 3.8 Exercícios - Strings
+# 3.10 Exercícios - Tipos
 
-puts "Digite o nome do restaurante"
-nome = gets
-print "Nome do restaurante: #{nome}"
+# Tipos
+puts 3.class
+puts 33333333333333333333333.class
+
+# imprime conta
+puts 3*(2+5)/8

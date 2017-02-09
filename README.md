@@ -8,7 +8,16 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 3.10 Exercícios - Tipos
   - [x] 3.12 Exercícios - Estruturas de controle e Regexp
   - [ ] 3.13 Desafios
-- [ ] Capítulo 4
+- [x] Capítulo 4
+    - [x] 4.4 Exercícios - Métodos
+    - [x] 4.7 Exercícios - Classes
+    - [x] 4.8 Desafio: Classes abertas
+    - [ ] 4.10 Desafio: self e o método puts
+    - [x] 4.13 Exercícios - Atributos e propriedades
+    - [x] 4.17 Exercícios - Arrays e Hashes
+    - [x] 4.19 Exercícios - Blocos
+    - [ ] 4.21 Desafio: Usando blocos
+    - [x] 4.23 Exercício: Manipulando exceptions
 - [ ] Capítulo 5
 - [ ] Capítulo 6
 - [ ] Capítulo 7

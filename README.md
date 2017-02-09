@@ -18,7 +18,10 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
     - [x] 4.19 Exercícios - Blocos
     - [ ] 4.21 Desafio: Usando blocos
     - [x] 4.23 Exercício: Manipulando exceptions
-- [ ] Capítulo 5
+- [x] Capítulo 5
+    - [x] 5.3 Exercícios - Ruby Object Model
+    - [x] 5.6 Exercícios - Duck Typing
+    - [x] 5.9 Exercícios - Metaprogramação
 - [ ] Capítulo 6
 - [ ] Capítulo 7
 - [ ] Capítulo 8

@@ -22,7 +22,13 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
     - [x] 5.3 Exercícios - Ruby Object Model
     - [x] 5.6 Exercícios - Duck Typing
     - [x] 5.9 Exercícios - Metaprogramação
-- [ ] Capítulo 6
+- [x] Capítulo 6
+  - [x] 6.5 Exercícios - Iniciando o projeto
+  - [x] 6.8 Exercícios - Criando o banco de dados
+  - [x] 6.10 Exercícios - Scaffold
+  - [x] 6.12 Exercícios - Migrar tabela
+  - [x] 6.14 Exercícios - Iniciando o servidor
+  - [ ] 6.16 Exercício opcional - Utilizando a documentação
 - [ ] Capítulo 7
 - [ ] Capítulo 8
 - [ ] Capítulo 9

@@ -29,7 +29,16 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 6.12 Exercícios - Migrar tabela
   - [x] 6.14 Exercícios - Iniciando o servidor
   - [ ] 6.16 Exercício opcional - Utilizando a documentação
-- [ ] Capítulo 7
+- [x] Capítulo 7
+  - [x] 7.2 Exercícios: Controle de Restaurantes
+  - [x] 7.8 Exercícios: Criando os modelos
+  - [x] 7.10 Exercícios: Manipulando registros
+  - [ ] 7.11 Exercícios Opcionais
+  - [x] 7.13 Exercícios: Buscas dinâmicas
+  - [x] 7.15 Exercícios: Validações
+  - [x] 7.17 Exercícios - Completando nosso modelo
+  - [x] 7.18 Exercícios - Criando o Modelo de Qualificação
+  - [x] 7.22 Exercícios - Relacionamentos
 - [ ] Capítulo 8
 - [ ] Capítulo 9
 - [ ] Capítulo 10

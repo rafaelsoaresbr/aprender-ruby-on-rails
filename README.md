@@ -39,7 +39,8 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 7.17 Exercícios - Completando nosso modelo
   - [x] 7.18 Exercícios - Criando o Modelo de Qualificação
   - [x] 7.22 Exercícios - Relacionamentos
-- [ ] Capítulo 8 - Rotas
+- [x] Capítulo 8 - Rotas
+  - [x] 8.7 - Exercício: Rotas
 - [ ] Capítulo 9 - Controllers e Views
 - [ ] Capítulo 10 - Completando o Sistema
 - [ ] Capítulo 11 - Calculations

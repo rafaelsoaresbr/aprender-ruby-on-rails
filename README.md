@@ -1,14 +1,14 @@
 # aprender-ruby-on-rails
 Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para Web com Ruby on Rails 4
-- [x] Capítulo 1
-- [x] Capítulo 2
-- [x] Capítulo 3
+- [x] Capítulo 1 - Agilidade na Web
+- [x] Capítulo 2 - A linguagem Ruby
+- [x] Capítulo 3 - Ruby básico
   - [x] 3.6 Exercícios - Variáveis e Atribuições
   - [x] 3.8 Exercícios - Strings
   - [x] 3.10 Exercícios - Tipos
   - [x] 3.12 Exercícios - Estruturas de controle e Regexp
   - [ ] 3.13 Desafios
-- [x] Capítulo 4
+- [x] Capítulo 4 - Mais Ruby: classes, objetos e métodos
     - [x] 4.4 Exercícios - Métodos
     - [x] 4.7 Exercícios - Classes
     - [x] 4.8 Desafio: Classes abertas
@@ -18,18 +18,18 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
     - [x] 4.19 Exercícios - Blocos
     - [ ] 4.21 Desafio: Usando blocos
     - [x] 4.23 Exercício: Manipulando exceptions
-- [x] Capítulo 5
+- [x] Capítulo 5 - Metaprogramação
     - [x] 5.3 Exercícios - Ruby Object Model
     - [x] 5.6 Exercícios - Duck Typing
     - [x] 5.9 Exercícios - Metaprogramação
-- [x] Capítulo 6
+- [x] Capítulo 6 - Ruby on Rails
   - [x] 6.5 Exercícios - Iniciando o projeto
   - [x] 6.8 Exercícios - Criando o banco de dados
   - [x] 6.10 Exercícios - Scaffold
   - [x] 6.12 Exercícios - Migrar tabela
   - [x] 6.14 Exercícios - Iniciando o servidor
   - [ ] 6.16 Exercício opcional - Utilizando a documentação
-- [x] Capítulo 7
+- [x] Capítulo 7 - Active Record
   - [x] 7.2 Exercícios: Controle de Restaurantes
   - [x] 7.8 Exercícios: Criando os modelos
   - [x] 7.10 Exercícios: Manipulando registros
@@ -39,16 +39,19 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 7.17 Exercícios - Completando nosso modelo
   - [x] 7.18 Exercícios - Criando o Modelo de Qualificação
   - [x] 7.22 Exercícios - Relacionamentos
-- [ ] Capítulo 8
-- [ ] Capítulo 9
-- [ ] Capítulo 10
-- [ ] Capítulo 11
-- [ ] Capítulo 12
-- [ ] Capítulo 13
-- [ ] Capítulo 14
-- [ ] Capítulo 15
-- [ ] Capítulo 16
-- [ ] Capítulo 17
-- [ ] Capítulo 18
-- [ ] Capítulo 19
-- [ ] Capítulo 20
+- [ ] Capítulo 8 - Rotas
+- [ ] Capítulo 9 - Controllers e Views
+- [ ] Capítulo 10 - Completando o Sistema
+- [ ] Capítulo 11 - Calculations
+- [ ] Capítulo 12 - Associações Polimórficas
+- [ ] Capítulo 13 - Mais sobre views
+- [ ] Capítulo 14 - Ajax com Rails
+- [ ] Capítulo 15 - Algumas Gems Importantes
+- [ ] Capítulo 16 - Apêndice: Testes
+- [ ] Capítulo 17 - Apêndice: Rotas e Rack
+- [ ] Capítulo 18 - Apêndice: Design Patterns em Ruby
+- [ ] Capítulo 19 - Apêndice: Integrando Java e Ruby
+- [ ] Capítulo 20 - Apêndice: Deployment
+
+Versão: 17.0.6
+Baixe sempre a versão mais nova em: www.caelum.com.br/apostilas

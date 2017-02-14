@@ -41,7 +41,20 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 7.22 Exercícios - Relacionamentos
 - [x] Capítulo 8 - Rotas
   - [x] 8.7 - Exercício: Rotas
-- [ ] Capítulo 9 - Controllers e Views
+- [x] Capítulo 9 - Controllers e Views
+  - [x] 9.3 - Exercícios: Criando o controlador
+  - [x] 9.7 - Exercícios: Listagem de restaurantes
+  - [x] 9.10 - Exercícios: Visualizando um restaurante
+  - [x] 9.13 - Exercícios: Deletando um restaurante
+  - [x] 9.16 - Exercícios: Página para criação de um novo restaurante
+  - [x] 9.19 - Exercícios: Persistindo um restaurante
+  - [x] 9.22 - Atualizando um restaurante
+  - [x] 9.23 - Exercícios Opcionais: linkando melhor as views
+  - [x] 9.25 - Exercícios: Tratamento de erros na criação
+  - [x] 9.27 - Exercícios: Tratamento de erros na atualização
+  - [x] 9.29 - Exercícios: Reaproveitando fragmentos de ERB
+  - [x] 9.32 - Exercícios: Disponibilizando restaurantes como XML e JSON
+  - [x] 9.33 - Exercícios Opcionais: Outras actions respondendo XML e JSON
 - [ ] Capítulo 10 - Completando o Sistema
 - [ ] Capítulo 11 - Calculations
 - [ ] Capítulo 12 - Associações Polimórficas

@@ -55,7 +55,11 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 9.29 - Exercícios: Reaproveitando fragmentos de ERB
   - [x] 9.32 - Exercícios: Disponibilizando restaurantes como XML e JSON
   - [x] 9.33 - Exercícios Opcionais: Outras actions respondendo XML e JSON
-- [ ] Capítulo 10 - Completando o Sistema
+- [x] Capítulo 10 - Completando o Sistema
+  - [x] 10.2 - Exercícios: Completando nosso domínio
+  - [x] 10.4 - Exercícios: Formulário com collection_select
+  - [x] 10.5 - Exercícios Opcionais: Refatorando para respeitarmos o MVC
+  - [x] 10.6 - Exercícios Opcionais: Exibindo nomes ao invés de números
 - [ ] Capítulo 11 - Calculations
 - [ ] Capítulo 12 - Associações Polimórficas
 - [ ] Capítulo 13 - Mais sobre views

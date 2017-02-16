@@ -62,7 +62,8 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 10.6 - Exercícios Opcionais: Exibindo nomes ao invés de números
 - [x] Capítulo 11 - Calculations
   - [x] 11.3 - Exercícios
-- [ ] Capítulo 12 - Associações Polimórficas
+- [x] Capítulo 12 - Associações Polimórfica
+  - [x] 12.3 - Exercícios: Criando modelo de comentário
 - [ ] Capítulo 13 - Mais sobre views
 - [ ] Capítulo 14 - Ajax com Rails
 - [ ] Capítulo 15 - Algumas Gems Importantes

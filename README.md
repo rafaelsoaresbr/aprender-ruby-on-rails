@@ -60,7 +60,8 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 10.4 - Exercícios: Formulário com collection_select
   - [x] 10.5 - Exercícios Opcionais: Refatorando para respeitarmos o MVC
   - [x] 10.6 - Exercícios Opcionais: Exibindo nomes ao invés de números
-- [ ] Capítulo 11 - Calculations
+- [x] Capítulo 11 - Calculations
+  - [x] 11.3 - Exercícios
 - [ ] Capítulo 12 - Associações Polimórficas
 - [ ] Capítulo 13 - Mais sobre views
 - [ ] Capítulo 14 - Ajax com Rails

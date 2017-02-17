@@ -64,7 +64,13 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 11.3 - Exercícios
 - [x] Capítulo 12 - Associações Polimórfica
   - [x] 12.3 - Exercícios: Criando modelo de comentário
-- [ ] Capítulo 13 - Mais sobre views
+- [x] Capítulo 13 - Mais sobre views
+  - [x] 13.2 - Exercícios: Formatando valores monetários
+  - [x] 13.4 - Exercícios: Formulário para criar um novo comentário
+  - [x] 13.6 - Exercícios: Listando os comentários de um comentável
+  - [x] 13.8 - Exercícios: Criando um menu de navegação principal
+  - [ ] 13.9 - Exercícios Opcionais: Menu como partial
+  - [ ] 13.11 - Exercícios: Aplicando CSS para os comentários
 - [ ] Capítulo 14 - Ajax com Rails
 - [ ] Capítulo 15 - Algumas Gems Importantes
 - [ ] Capítulo 16 - Apêndice: Testes

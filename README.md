@@ -71,7 +71,9 @@ Resolução de exercícios do Curso Caelum RR-71 - Desenvolvimento Ágil para We
   - [x] 13.8 - Exercícios: Criando um menu de navegação principal
   - [ ] 13.9 - Exercícios Opcionais: Menu como partial
   - [ ] 13.11 - Exercícios: Aplicando CSS para os comentários
-- [ ] Capítulo 14 - Ajax com Rails
+- [x] Capítulo 14 - Ajax com Rails
+  - [x] 14.2 - Exercícios: Link de remover comentário usando AJAX
+  - [x] 14.4 - Exercícios: AJAX no formulário de comentários
 - [ ] Capítulo 15 - Algumas Gems Importantes
 - [ ] Capítulo 16 - Apêndice: Testes
 - [ ] Capítulo 17 - Apêndice: Rotas e Rack

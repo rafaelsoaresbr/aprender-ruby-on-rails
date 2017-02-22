@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VotaPrato</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <ul>
+      <% %w[clientes qualificacoes restaurantes].each do |controller_name| %>
+        <li>
+          <%= link_to controller_name, controller: controller_name %>
+        </li>
+      <% end %>
+    </ul>
+    <%= yield %>
+    <script>
+      <%= yield :js %>
+    </script>
+  </body>
+</html>
